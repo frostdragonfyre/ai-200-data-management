@@ -1,0 +1,6658 @@
+[
+ {
+  "id": 42,
+  "title": "Returns and right of withdrawal (EU)",
+  "product": "all",
+  "region": "EU",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 3,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 41,
+  "title": "Returns and right of withdrawal (EU), 2025 edition",
+  "product": "all",
+  "region": "EU",
+  "effective_from": "2025-01-01",
+  "effective_to": "2025-12-31",
+  "meta": {
+   "version": 2,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 40,
+  "title": "Return policy (US)",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 3,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 39,
+  "title": "Return policy (US), 2025 edition",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2025-01-01",
+  "effective_to": "2025-12-31",
+  "meta": {
+   "version": 2,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 43,
+  "title": "Damaged or defective on arrival (US)",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 3,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 44,
+  "title": "Damaged or defective on arrival (EU)",
+  "product": "all",
+  "region": "EU",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 2,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 45,
+  "title": "Blender warranty (US)",
+  "product": "blender",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 46,
+  "title": "Blender warranty (EU)",
+  "product": "blender",
+  "region": "EU",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 47,
+  "title": "Refund timing (US)",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 48,
+  "title": "Shipping times and tracking (US)",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 49,
+  "title": "Shipping times and tracking (EU)",
+  "product": "all",
+  "region": "EU",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 50,
+  "title": "Account security and two-step verification",
+  "product": "all",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 2,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 51,
+  "title": "Kettle care and descaling",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 52,
+  "title": "Air fryer basket sizes",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2026-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "policy",
+   "synthetic": false
+  }
+ },
+ {
+  "id": 1001,
+  "title": "Toaster model T-33 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1002,
+  "title": "Slow Cooker model M-64 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1003,
+  "title": "Espresso Machine model L-85 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1004,
+  "title": "Kettle model X-73 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1005,
+  "title": "Air Fryer model M-89 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1006,
+  "title": "Food Processor model S-72 reference",
+  "product": "food processor",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1007,
+  "title": "Hand Blender model L-45 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1008,
+  "title": "Toaster model K-77 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1009,
+  "title": "Toaster model P-16 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1010,
+  "title": "Rice Cooker model S-16 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1011,
+  "title": "Air Fryer model R-90 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1012,
+  "title": "Kettle model T-77 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1013,
+  "title": "Kettle model T-42 reference",
+  "product": "kettle",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1014,
+  "title": "Juicer model K-79 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1015,
+  "title": "Waffle Maker model T-24 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1016,
+  "title": "Coffee Maker model T-94 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1017,
+  "title": "Kettle model M-94 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1018,
+  "title": "Slow Cooker model T-36 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1019,
+  "title": "Waffle Maker model T-73 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1020,
+  "title": "Kettle model X-13 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1021,
+  "title": "Espresso Machine model K-36 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1022,
+  "title": "Juicer model M-64 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1023,
+  "title": "Slow Cooker model R-47 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1024,
+  "title": "Espresso Machine model L-30 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1025,
+  "title": "Rice Cooker model K-33 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1026,
+  "title": "Toaster model R-27 reference",
+  "product": "toaster",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1027,
+  "title": "Waffle Maker model S-36 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1028,
+  "title": "Rice Cooker model K-36 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1029,
+  "title": "Espresso Machine model R-88 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1030,
+  "title": "Espresso Machine model X-73 reference",
+  "product": "espresso machine",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1031,
+  "title": "Stand Mixer model X-23 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1032,
+  "title": "Air Fryer model R-30 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1033,
+  "title": "Juicer model T-81 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1034,
+  "title": "Stand Mixer model X-16 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1035,
+  "title": "Espresso Machine model R-15 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1036,
+  "title": "Toaster model K-19 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1037,
+  "title": "Juicer model X-10 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1038,
+  "title": "Food Processor model P-28 reference",
+  "product": "food processor",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1039,
+  "title": "Espresso Machine model S-83 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1040,
+  "title": "Espresso Machine model S-92 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1041,
+  "title": "Juicer model X-32 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1042,
+  "title": "Waffle Maker model S-17 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1043,
+  "title": "Waffle Maker model X-88 reference",
+  "product": "waffle maker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1044,
+  "title": "Espresso Machine model R-14 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1045,
+  "title": "Hand Blender model M-16 reference",
+  "product": "hand blender",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1046,
+  "title": "Hand Blender model T-82 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1047,
+  "title": "Food Processor model K-60 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1048,
+  "title": "Slow Cooker model L-72 reference",
+  "product": "slow cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1049,
+  "title": "Rice Cooker model M-82 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1050,
+  "title": "Rice Cooker model L-47 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1051,
+  "title": "Waffle Maker model T-88 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1052,
+  "title": "Kettle model T-28 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1053,
+  "title": "Coffee Maker model X-10 reference",
+  "product": "coffee maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1054,
+  "title": "Rice Cooker model X-77 reference",
+  "product": "rice cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1055,
+  "title": "Stand Mixer model X-70 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1056,
+  "title": "Rice Cooker model L-19 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1057,
+  "title": "Toaster model R-17 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1058,
+  "title": "Food Processor model R-38 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1059,
+  "title": "Stand Mixer model X-92 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1060,
+  "title": "Hand Blender model X-90 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1061,
+  "title": "Hand Blender model L-44 reference",
+  "product": "hand blender",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1062,
+  "title": "Rice Cooker model L-17 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1063,
+  "title": "Rice Cooker model T-92 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1064,
+  "title": "Coffee Maker model M-24 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1065,
+  "title": "Air Fryer model K-73 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1066,
+  "title": "Rice Cooker model R-29 reference",
+  "product": "rice cooker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1067,
+  "title": "Stand Mixer model P-56 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1068,
+  "title": "Kettle model S-32 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1069,
+  "title": "Kettle model M-22 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1070,
+  "title": "Rice Cooker model X-48 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1071,
+  "title": "Kettle model P-56 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1072,
+  "title": "Rice Cooker model T-55 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1073,
+  "title": "Kettle model K-83 reference",
+  "product": "kettle",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1074,
+  "title": "Kettle model M-86 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1075,
+  "title": "Food Processor model P-36 reference",
+  "product": "food processor",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1076,
+  "title": "Juicer model X-49 reference",
+  "product": "juicer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1077,
+  "title": "Food Processor model R-35 reference",
+  "product": "food processor",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1078,
+  "title": "Food Processor model P-21 reference",
+  "product": "food processor",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1079,
+  "title": "Stand Mixer model L-34 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1080,
+  "title": "Toaster model T-19 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1081,
+  "title": "Stand Mixer model T-39 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1082,
+  "title": "Stand Mixer model R-98 reference",
+  "product": "stand mixer",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1083,
+  "title": "Juicer model M-47 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1084,
+  "title": "Air Fryer model M-47 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1085,
+  "title": "Kettle model P-65 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1086,
+  "title": "Food Processor model S-73 reference",
+  "product": "food processor",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1087,
+  "title": "Slow Cooker model L-86 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1088,
+  "title": "Food Processor model S-67 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1089,
+  "title": "Air Fryer model L-18 reference",
+  "product": "air fryer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1090,
+  "title": "Waffle Maker model R-10 reference",
+  "product": "waffle maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1091,
+  "title": "Kettle model R-50 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1092,
+  "title": "Stand Mixer model K-32 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1093,
+  "title": "Stand Mixer model K-33 reference",
+  "product": "stand mixer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1094,
+  "title": "Coffee Maker model P-83 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1095,
+  "title": "Air Fryer model M-62 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1096,
+  "title": "Rice Cooker model P-47 reference",
+  "product": "rice cooker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1097,
+  "title": "Stand Mixer model X-58 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1098,
+  "title": "Rice Cooker model X-16 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1099,
+  "title": "Air Fryer model X-72 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1100,
+  "title": "Rice Cooker model S-90 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1101,
+  "title": "Stand Mixer model X-87 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1102,
+  "title": "Toaster model P-59 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1103,
+  "title": "Stand Mixer model R-40 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1104,
+  "title": "Juicer model M-80 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1105,
+  "title": "Waffle Maker model P-91 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1106,
+  "title": "Waffle Maker model X-73 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1107,
+  "title": "Waffle Maker model S-94 reference",
+  "product": "waffle maker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1108,
+  "title": "Waffle Maker model L-70 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1109,
+  "title": "Juicer model L-81 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1110,
+  "title": "Hand Blender model X-55 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1111,
+  "title": "Stand Mixer model M-76 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1112,
+  "title": "Kettle model L-72 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1113,
+  "title": "Waffle Maker model X-87 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1114,
+  "title": "Coffee Maker model K-17 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1115,
+  "title": "Kettle model L-84 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1116,
+  "title": "Toaster model M-15 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1117,
+  "title": "Hand Blender model M-32 reference",
+  "product": "hand blender",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1118,
+  "title": "Food Processor model K-47 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1119,
+  "title": "Rice Cooker model X-29 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1120,
+  "title": "Food Processor model X-79 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1121,
+  "title": "Rice Cooker model R-62 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1122,
+  "title": "Espresso Machine model R-74 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1123,
+  "title": "Toaster model M-60 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1124,
+  "title": "Toaster model P-28 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1125,
+  "title": "Espresso Machine model P-24 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1126,
+  "title": "Coffee Maker model K-81 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1127,
+  "title": "Air Fryer model L-24 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1128,
+  "title": "Rice Cooker model S-37 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1129,
+  "title": "Slow Cooker model L-74 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1130,
+  "title": "Juicer model M-44 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1131,
+  "title": "Coffee Maker model P-24 reference",
+  "product": "coffee maker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1132,
+  "title": "Waffle Maker model P-48 reference",
+  "product": "waffle maker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1133,
+  "title": "Rice Cooker model S-15 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1134,
+  "title": "Slow Cooker model K-90 reference",
+  "product": "slow cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1135,
+  "title": "Juicer model T-62 reference",
+  "product": "juicer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1136,
+  "title": "Slow Cooker model S-31 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1137,
+  "title": "Rice Cooker model R-27 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1138,
+  "title": "Toaster model T-86 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1139,
+  "title": "Espresso Machine model K-61 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1140,
+  "title": "Coffee Maker model P-61 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1141,
+  "title": "Toaster model L-94 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1142,
+  "title": "Slow Cooker model X-84 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1143,
+  "title": "Coffee Maker model P-41 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1144,
+  "title": "Coffee Maker model R-13 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1145,
+  "title": "Juicer model X-96 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1146,
+  "title": "Kettle model K-12 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1147,
+  "title": "Slow Cooker model M-31 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1148,
+  "title": "Juicer model R-28 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1149,
+  "title": "Food Processor model T-11 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1150,
+  "title": "Espresso Machine model R-47 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1151,
+  "title": "Waffle Maker model L-24 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1152,
+  "title": "Kettle model L-95 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1153,
+  "title": "Rice Cooker model K-12 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1154,
+  "title": "Juicer model M-54 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1155,
+  "title": "Stand Mixer model L-96 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1156,
+  "title": "Kettle model P-74 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1157,
+  "title": "Espresso Machine model S-54 reference",
+  "product": "espresso machine",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1158,
+  "title": "Food Processor model K-65 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1159,
+  "title": "Food Processor model L-49 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1160,
+  "title": "Espresso Machine model P-22 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1161,
+  "title": "Waffle Maker model M-34 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1162,
+  "title": "Toaster model K-41 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1163,
+  "title": "Coffee Maker model S-12 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1164,
+  "title": "Coffee Maker model P-29 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1165,
+  "title": "Kettle model X-48 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1166,
+  "title": "Waffle Maker model M-80 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1167,
+  "title": "Slow Cooker model K-26 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1168,
+  "title": "Toaster model P-75 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1169,
+  "title": "Waffle Maker model R-86 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1170,
+  "title": "Hand Blender model M-56 reference",
+  "product": "hand blender",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1171,
+  "title": "Juicer model T-97 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1172,
+  "title": "Food Processor model T-96 reference",
+  "product": "food processor",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1173,
+  "title": "Coffee Maker model M-70 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1174,
+  "title": "Stand Mixer model L-18 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1175,
+  "title": "Kettle model P-65 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1176,
+  "title": "Espresso Machine model P-24 reference",
+  "product": "espresso machine",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1177,
+  "title": "Air Fryer model X-72 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1178,
+  "title": "Toaster model T-82 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1179,
+  "title": "Food Processor model L-93 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1180,
+  "title": "Toaster model M-19 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1181,
+  "title": "Toaster model P-56 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1182,
+  "title": "Toaster model L-15 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1183,
+  "title": "Stand Mixer model M-27 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1184,
+  "title": "Hand Blender model L-22 reference",
+  "product": "hand blender",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1185,
+  "title": "Juicer model K-86 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1186,
+  "title": "Kettle model L-37 reference",
+  "product": "kettle",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1187,
+  "title": "Rice Cooker model M-31 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1188,
+  "title": "Stand Mixer model T-62 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1189,
+  "title": "Hand Blender model R-82 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1190,
+  "title": "Espresso Machine model T-92 reference",
+  "product": "espresso machine",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1191,
+  "title": "Coffee Maker model P-94 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1192,
+  "title": "Waffle Maker model T-28 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1193,
+  "title": "Food Processor model K-20 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1194,
+  "title": "Slow Cooker model L-83 reference",
+  "product": "slow cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1195,
+  "title": "Rice Cooker model K-21 reference",
+  "product": "rice cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1196,
+  "title": "Stand Mixer model T-19 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1197,
+  "title": "Juicer model L-25 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1198,
+  "title": "Stand Mixer model T-74 reference",
+  "product": "stand mixer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1199,
+  "title": "Hand Blender model X-60 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1200,
+  "title": "Hand Blender model S-67 reference",
+  "product": "hand blender",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1201,
+  "title": "Hand Blender model R-11 reference",
+  "product": "hand blender",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1202,
+  "title": "Rice Cooker model X-78 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1203,
+  "title": "Slow Cooker model P-61 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1204,
+  "title": "Slow Cooker model L-71 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1205,
+  "title": "Stand Mixer model P-78 reference",
+  "product": "stand mixer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1206,
+  "title": "Stand Mixer model T-21 reference",
+  "product": "stand mixer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1207,
+  "title": "Juicer model K-61 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1208,
+  "title": "Coffee Maker model R-61 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1209,
+  "title": "Espresso Machine model M-17 reference",
+  "product": "espresso machine",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1210,
+  "title": "Hand Blender model S-18 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1211,
+  "title": "Juicer model K-50 reference",
+  "product": "juicer",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1212,
+  "title": "Kettle model R-75 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1213,
+  "title": "Air Fryer model K-79 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1214,
+  "title": "Coffee Maker model M-99 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1215,
+  "title": "Espresso Machine model M-99 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1216,
+  "title": "Slow Cooker model R-22 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1217,
+  "title": "Air Fryer model M-41 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1218,
+  "title": "Kettle model S-66 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1219,
+  "title": "Stand Mixer model R-62 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1220,
+  "title": "Espresso Machine model P-73 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1221,
+  "title": "Rice Cooker model R-74 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1222,
+  "title": "Air Fryer model M-26 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1223,
+  "title": "Espresso Machine model T-59 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1224,
+  "title": "Stand Mixer model M-64 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1225,
+  "title": "Rice Cooker model L-57 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1226,
+  "title": "Kettle model S-93 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1227,
+  "title": "Espresso Machine model R-55 reference",
+  "product": "espresso machine",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1228,
+  "title": "Slow Cooker model L-36 reference",
+  "product": "slow cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1229,
+  "title": "Toaster model L-72 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1230,
+  "title": "Espresso Machine model M-44 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1231,
+  "title": "Kettle model R-80 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1232,
+  "title": "Coffee Maker model T-91 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1233,
+  "title": "Slow Cooker model P-38 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1234,
+  "title": "Waffle Maker model M-95 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1235,
+  "title": "Air Fryer model P-37 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1236,
+  "title": "Rice Cooker model T-35 reference",
+  "product": "rice cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1237,
+  "title": "Hand Blender model X-24 reference",
+  "product": "hand blender",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1238,
+  "title": "Waffle Maker model L-66 reference",
+  "product": "waffle maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1239,
+  "title": "Rice Cooker model S-60 reference",
+  "product": "rice cooker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1240,
+  "title": "Hand Blender model K-39 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1241,
+  "title": "Waffle Maker model R-42 reference",
+  "product": "waffle maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1242,
+  "title": "Kettle model S-86 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1243,
+  "title": "Espresso Machine model L-81 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1244,
+  "title": "Juicer model S-68 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1245,
+  "title": "Coffee Maker model L-50 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1246,
+  "title": "Espresso Machine model M-51 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1247,
+  "title": "Food Processor model X-89 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1248,
+  "title": "Waffle Maker model L-99 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1249,
+  "title": "Slow Cooker model P-39 reference",
+  "product": "slow cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1250,
+  "title": "Stand Mixer model T-76 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1251,
+  "title": "Rice Cooker model L-87 reference",
+  "product": "rice cooker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1252,
+  "title": "Food Processor model K-65 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1253,
+  "title": "Air Fryer model T-94 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1254,
+  "title": "Hand Blender model S-59 reference",
+  "product": "hand blender",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1255,
+  "title": "Rice Cooker model R-88 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1256,
+  "title": "Air Fryer model R-74 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1257,
+  "title": "Waffle Maker model R-15 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1258,
+  "title": "Espresso Machine model K-84 reference",
+  "product": "espresso machine",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1259,
+  "title": "Rice Cooker model T-33 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1260,
+  "title": "Juicer model X-83 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1261,
+  "title": "Stand Mixer model M-53 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1262,
+  "title": "Kettle model S-17 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1263,
+  "title": "Slow Cooker model K-37 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1264,
+  "title": "Rice Cooker model K-61 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1265,
+  "title": "Coffee Maker model R-19 reference",
+  "product": "coffee maker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1266,
+  "title": "Slow Cooker model P-31 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1267,
+  "title": "Kettle model M-92 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1268,
+  "title": "Espresso Machine model L-68 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1269,
+  "title": "Stand Mixer model T-29 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1270,
+  "title": "Coffee Maker model R-27 reference",
+  "product": "coffee maker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1271,
+  "title": "Food Processor model R-62 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1272,
+  "title": "Kettle model S-80 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1273,
+  "title": "Rice Cooker model S-90 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1274,
+  "title": "Kettle model R-79 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1275,
+  "title": "Food Processor model M-24 reference",
+  "product": "food processor",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1276,
+  "title": "Rice Cooker model S-51 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1277,
+  "title": "Food Processor model S-64 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1278,
+  "title": "Coffee Maker model S-70 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1279,
+  "title": "Juicer model T-74 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1280,
+  "title": "Kettle model P-52 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1281,
+  "title": "Juicer model L-92 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1282,
+  "title": "Hand Blender model R-43 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1283,
+  "title": "Slow Cooker model P-20 reference",
+  "product": "slow cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1284,
+  "title": "Rice Cooker model P-19 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1285,
+  "title": "Espresso Machine model L-77 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1286,
+  "title": "Toaster model L-41 reference",
+  "product": "toaster",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1287,
+  "title": "Stand Mixer model P-40 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1288,
+  "title": "Stand Mixer model S-39 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1289,
+  "title": "Air Fryer model X-47 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1290,
+  "title": "Waffle Maker model S-57 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1291,
+  "title": "Air Fryer model S-38 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1292,
+  "title": "Juicer model K-46 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1293,
+  "title": "Air Fryer model S-10 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1294,
+  "title": "Food Processor model T-16 reference",
+  "product": "food processor",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1295,
+  "title": "Waffle Maker model K-51 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1296,
+  "title": "Waffle Maker model L-21 reference",
+  "product": "waffle maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1297,
+  "title": "Toaster model M-31 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1298,
+  "title": "Hand Blender model M-61 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1299,
+  "title": "Coffee Maker model R-19 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1300,
+  "title": "Kettle model M-84 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1301,
+  "title": "Waffle Maker model R-23 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1302,
+  "title": "Hand Blender model L-68 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1303,
+  "title": "Food Processor model L-48 reference",
+  "product": "food processor",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1304,
+  "title": "Kettle model P-34 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1305,
+  "title": "Food Processor model L-67 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1306,
+  "title": "Air Fryer model X-97 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1307,
+  "title": "Air Fryer model R-52 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1308,
+  "title": "Rice Cooker model P-44 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1309,
+  "title": "Waffle Maker model M-78 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1310,
+  "title": "Food Processor model K-45 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1311,
+  "title": "Air Fryer model L-19 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1312,
+  "title": "Waffle Maker model P-88 reference",
+  "product": "waffle maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1313,
+  "title": "Espresso Machine model S-20 reference",
+  "product": "espresso machine",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1314,
+  "title": "Toaster model M-97 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1315,
+  "title": "Kettle model M-48 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1316,
+  "title": "Air Fryer model X-84 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1317,
+  "title": "Coffee Maker model P-89 reference",
+  "product": "coffee maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1318,
+  "title": "Kettle model T-45 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1319,
+  "title": "Hand Blender model M-82 reference",
+  "product": "hand blender",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1320,
+  "title": "Stand Mixer model M-15 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1321,
+  "title": "Slow Cooker model M-41 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1322,
+  "title": "Toaster model P-43 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1323,
+  "title": "Hand Blender model R-19 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1324,
+  "title": "Toaster model M-67 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1325,
+  "title": "Waffle Maker model S-58 reference",
+  "product": "waffle maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1326,
+  "title": "Espresso Machine model L-55 reference",
+  "product": "espresso machine",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1327,
+  "title": "Coffee Maker model S-63 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1328,
+  "title": "Espresso Machine model P-21 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1329,
+  "title": "Toaster model R-97 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1330,
+  "title": "Food Processor model S-98 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1331,
+  "title": "Rice Cooker model M-30 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1332,
+  "title": "Air Fryer model L-38 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1333,
+  "title": "Food Processor model S-54 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1334,
+  "title": "Rice Cooker model M-85 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1335,
+  "title": "Waffle Maker model K-12 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1336,
+  "title": "Espresso Machine model T-12 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1337,
+  "title": "Toaster model X-91 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1338,
+  "title": "Coffee Maker model L-72 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1339,
+  "title": "Stand Mixer model T-79 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1340,
+  "title": "Kettle model X-25 reference",
+  "product": "kettle",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1341,
+  "title": "Juicer model P-82 reference",
+  "product": "juicer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1342,
+  "title": "Food Processor model X-11 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1343,
+  "title": "Hand Blender model M-50 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1344,
+  "title": "Espresso Machine model T-86 reference",
+  "product": "espresso machine",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1345,
+  "title": "Air Fryer model T-38 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1346,
+  "title": "Slow Cooker model M-83 reference",
+  "product": "slow cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1347,
+  "title": "Coffee Maker model T-10 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1348,
+  "title": "Food Processor model T-99 reference",
+  "product": "food processor",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1349,
+  "title": "Slow Cooker model R-67 reference",
+  "product": "slow cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1350,
+  "title": "Toaster model S-24 reference",
+  "product": "toaster",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1351,
+  "title": "Kettle model M-42 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1352,
+  "title": "Toaster model P-55 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1353,
+  "title": "Kettle model P-62 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1354,
+  "title": "Toaster model T-84 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1355,
+  "title": "Food Processor model L-27 reference",
+  "product": "food processor",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1356,
+  "title": "Toaster model M-27 reference",
+  "product": "toaster",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1357,
+  "title": "Hand Blender model P-60 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1358,
+  "title": "Espresso Machine model K-68 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1359,
+  "title": "Food Processor model T-92 reference",
+  "product": "food processor",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1360,
+  "title": "Espresso Machine model P-61 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1361,
+  "title": "Espresso Machine model P-48 reference",
+  "product": "espresso machine",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1362,
+  "title": "Food Processor model P-82 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1363,
+  "title": "Toaster model R-92 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1364,
+  "title": "Juicer model R-57 reference",
+  "product": "juicer",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1365,
+  "title": "Slow Cooker model P-40 reference",
+  "product": "slow cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1366,
+  "title": "Stand Mixer model X-79 reference",
+  "product": "stand mixer",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1367,
+  "title": "Toaster model K-87 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1368,
+  "title": "Espresso Machine model K-82 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1369,
+  "title": "Stand Mixer model K-29 reference",
+  "product": "stand mixer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1370,
+  "title": "Toaster model S-43 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1371,
+  "title": "Juicer model M-26 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1372,
+  "title": "Coffee Maker model S-35 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1373,
+  "title": "Rice Cooker model K-84 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1374,
+  "title": "Espresso Machine model P-89 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1375,
+  "title": "Juicer model M-31 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1376,
+  "title": "Slow Cooker model S-80 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1377,
+  "title": "Toaster model L-82 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1378,
+  "title": "Waffle Maker model P-68 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1379,
+  "title": "Waffle Maker model R-68 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1380,
+  "title": "Air Fryer model X-14 reference",
+  "product": "air fryer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1381,
+  "title": "Juicer model L-95 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1382,
+  "title": "Toaster model L-25 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1383,
+  "title": "Air Fryer model T-94 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1384,
+  "title": "Kettle model P-57 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1385,
+  "title": "Slow Cooker model P-40 reference",
+  "product": "slow cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1386,
+  "title": "Juicer model K-25 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1387,
+  "title": "Hand Blender model L-45 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1388,
+  "title": "Slow Cooker model S-60 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1389,
+  "title": "Kettle model L-90 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1390,
+  "title": "Waffle Maker model M-14 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1391,
+  "title": "Rice Cooker model P-80 reference",
+  "product": "rice cooker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1392,
+  "title": "Food Processor model M-44 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1393,
+  "title": "Stand Mixer model M-79 reference",
+  "product": "stand mixer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1394,
+  "title": "Rice Cooker model M-85 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1395,
+  "title": "Stand Mixer model M-43 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1396,
+  "title": "Rice Cooker model P-22 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1397,
+  "title": "Toaster model S-54 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1398,
+  "title": "Toaster model X-20 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1399,
+  "title": "Air Fryer model X-28 reference",
+  "product": "air fryer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1400,
+  "title": "Stand Mixer model K-74 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1401,
+  "title": "Toaster model X-41 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1402,
+  "title": "Espresso Machine model X-97 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1403,
+  "title": "Juicer model R-40 reference",
+  "product": "juicer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1404,
+  "title": "Hand Blender model S-98 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1405,
+  "title": "Air Fryer model P-19 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1406,
+  "title": "Juicer model X-82 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1407,
+  "title": "Slow Cooker model X-16 reference",
+  "product": "slow cooker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1408,
+  "title": "Hand Blender model P-69 reference",
+  "product": "hand blender",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1409,
+  "title": "Rice Cooker model T-97 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1410,
+  "title": "Waffle Maker model S-18 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1411,
+  "title": "Juicer model M-63 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1412,
+  "title": "Waffle Maker model P-16 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1413,
+  "title": "Juicer model X-40 reference",
+  "product": "juicer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1414,
+  "title": "Hand Blender model K-51 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1415,
+  "title": "Stand Mixer model T-56 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1416,
+  "title": "Espresso Machine model L-49 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1417,
+  "title": "Coffee Maker model R-76 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1418,
+  "title": "Rice Cooker model X-42 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1419,
+  "title": "Espresso Machine model P-54 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1420,
+  "title": "Juicer model L-57 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1421,
+  "title": "Kettle model L-37 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1422,
+  "title": "Waffle Maker model T-20 reference",
+  "product": "waffle maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1423,
+  "title": "Coffee Maker model L-12 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1424,
+  "title": "Coffee Maker model R-53 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1425,
+  "title": "Kettle model X-35 reference",
+  "product": "kettle",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1426,
+  "title": "Juicer model X-61 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1427,
+  "title": "Stand Mixer model M-84 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1428,
+  "title": "Stand Mixer model X-56 reference",
+  "product": "stand mixer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1429,
+  "title": "Coffee Maker model M-60 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1430,
+  "title": "Rice Cooker model P-98 reference",
+  "product": "rice cooker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1431,
+  "title": "Coffee Maker model K-85 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1432,
+  "title": "Coffee Maker model M-69 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1433,
+  "title": "Coffee Maker model M-18 reference",
+  "product": "coffee maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1434,
+  "title": "Juicer model M-66 reference",
+  "product": "juicer",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1435,
+  "title": "Hand Blender model R-28 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1436,
+  "title": "Coffee Maker model P-56 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1437,
+  "title": "Toaster model X-46 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1438,
+  "title": "Food Processor model S-24 reference",
+  "product": "food processor",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1439,
+  "title": "Stand Mixer model T-55 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1440,
+  "title": "Kettle model T-99 reference",
+  "product": "kettle",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1441,
+  "title": "Hand Blender model L-52 reference",
+  "product": "hand blender",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1442,
+  "title": "Toaster model M-36 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1443,
+  "title": "Toaster model S-66 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1444,
+  "title": "Toaster model S-68 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1445,
+  "title": "Kettle model T-98 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1446,
+  "title": "Stand Mixer model R-70 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1447,
+  "title": "Espresso Machine model S-29 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1448,
+  "title": "Waffle Maker model X-26 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1449,
+  "title": "Juicer model M-76 reference",
+  "product": "juicer",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1450,
+  "title": "Toaster model L-81 reference",
+  "product": "toaster",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1451,
+  "title": "Coffee Maker model M-98 reference",
+  "product": "coffee maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1452,
+  "title": "Espresso Machine model X-83 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1453,
+  "title": "Juicer model M-48 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1454,
+  "title": "Stand Mixer model S-65 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1455,
+  "title": "Juicer model T-85 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1456,
+  "title": "Food Processor model T-38 reference",
+  "product": "food processor",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1457,
+  "title": "Waffle Maker model P-42 reference",
+  "product": "waffle maker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1458,
+  "title": "Rice Cooker model M-31 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1459,
+  "title": "Kettle model S-22 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1460,
+  "title": "Toaster model K-50 reference",
+  "product": "toaster",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1461,
+  "title": "Espresso Machine model L-20 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1462,
+  "title": "Juicer model R-32 reference",
+  "product": "juicer",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1463,
+  "title": "Waffle Maker model R-55 reference",
+  "product": "waffle maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1464,
+  "title": "Rice Cooker model L-93 reference",
+  "product": "rice cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1465,
+  "title": "Waffle Maker model M-85 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1466,
+  "title": "Toaster model R-52 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1467,
+  "title": "Hand Blender model T-32 reference",
+  "product": "hand blender",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1468,
+  "title": "Espresso Machine model T-16 reference",
+  "product": "espresso machine",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1469,
+  "title": "Juicer model T-81 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1470,
+  "title": "Air Fryer model T-21 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1471,
+  "title": "Food Processor model X-82 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1472,
+  "title": "Stand Mixer model R-98 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1473,
+  "title": "Hand Blender model X-23 reference",
+  "product": "hand blender",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1474,
+  "title": "Food Processor model R-72 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1475,
+  "title": "Waffle Maker model M-47 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1476,
+  "title": "Juicer model K-48 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1477,
+  "title": "Stand Mixer model M-26 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1478,
+  "title": "Waffle Maker model P-66 reference",
+  "product": "waffle maker",
+  "region": "CA",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1479,
+  "title": "Toaster model P-37 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1480,
+  "title": "Juicer model L-72 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1481,
+  "title": "Toaster model M-62 reference",
+  "product": "toaster",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1482,
+  "title": "Kettle model R-75 reference",
+  "product": "kettle",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1483,
+  "title": "Food Processor model X-22 reference",
+  "product": "food processor",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1484,
+  "title": "Waffle Maker model T-93 reference",
+  "product": "waffle maker",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1485,
+  "title": "Waffle Maker model M-12 reference",
+  "product": "waffle maker",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1486,
+  "title": "Slow Cooker model P-25 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1487,
+  "title": "Air Fryer model K-57 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1488,
+  "title": "Stand Mixer model R-29 reference",
+  "product": "stand mixer",
+  "region": "EU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1489,
+  "title": "Kettle model R-12 reference",
+  "product": "kettle",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1490,
+  "title": "Air Fryer model T-98 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1491,
+  "title": "Rice Cooker model M-17 reference",
+  "product": "rice cooker",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1492,
+  "title": "Stand Mixer model X-59 reference",
+  "product": "stand mixer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1493,
+  "title": "Slow Cooker model S-75 reference",
+  "product": "slow cooker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1494,
+  "title": "Espresso Machine model S-85 reference",
+  "product": "espresso machine",
+  "region": "AU",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1495,
+  "title": "Waffle Maker model P-24 reference",
+  "product": "waffle maker",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1496,
+  "title": "Juicer model S-26 reference",
+  "product": "juicer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1497,
+  "title": "Air Fryer model M-26 reference",
+  "product": "air fryer",
+  "region": "US",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ },
+ {
+  "id": 1498,
+  "title": "Espresso Machine model T-94 reference",
+  "product": "espresso machine",
+  "region": "UK",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "meta": {
+   "version": 1,
+   "source": "manual",
+   "synthetic": true
+  }
+ }
+]

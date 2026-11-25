@@ -1,0 +1,9 @@
+.env
+.env.tmp
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+nohup.out
+m1/after/.page_token
+m2/after/.changefeed_token
